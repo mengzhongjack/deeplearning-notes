@@ -39,15 +39,29 @@
 
 ​	因为我们没有data做监督学习 ==> 所以我们才做reinforcement learning ，而不是reinforcement learning 火，我才硬凑上去部署reinforcement learning ，我们要学习，但是更要学以致用。
 
-## 我的计划
 
-* 动手写 线性回归 模型
 
-* 动手写 逻辑回归 模型
+## 学习资料
 
-* 动手写 一层神经网络
+* 视频地址
 
-* 动手写两层以上的神经网络
+https://www.bilibili.com/video/av59538266
+
+* 笔记地址
+
+https://datawhalechina.github.io/leeml-notes/
+
+### 李宏毅 机器学习 2021 课程 
+
+* 官方课程最新主页
+
+https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
+
+* 代码
+
+https://github.com/ga642381/ML2021-Spring
+
+
 
 
 
