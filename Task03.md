@@ -23,8 +23,8 @@ https://www.zhihu.com/question/27068705
  用numpy 做 向量化求导-->需要知道矩阵求导
 ### 实践问题:
  学习率也要调整
- Adagrad 调整学习率，Adagrad 也存在问题
- 
+ Adagrad 调整学习率，Adagrad 也存在问题,越来越慢，接近于玄学
+
 
 
 
